@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "xyz",
+      "lname": "abc",
+      "eid": "1993024",
+      "fn": "Aba",
+      "ln": "Patil",
+      "add": "Agashiv Nagar",
+      "city": "Karad",
+      "state": "Maharashtra"
+    },
+    {
+      "eid": "77",
+      "fn": "Hari",
+      "ln": "Patil",
+      "add": "A/p Manewadi",
+      "city": "Karad",
+      "state": "Maharashtra",
+      "id": 12
+    },
+    {
+      "eid": "34",
+      "fn": "Kunal",
+      "ln": "Gharal",
+      "add": "Old Rajendar Nagar",
+      "city": "Delhi",
+      "state": "Delhi",
+      "id": 14
+    },
+    {
+      "eid": "59",
+      "fn": "Ethan",
+      "ln": "Hunt",
+      "add": "Nanded city",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "id": 15
+    }
+  ]
+}
